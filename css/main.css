@@ -1,0 +1,19 @@
+.containers{
+    max-width: 1500px;
+    margin: 0 auto;
+    
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+body{
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.containers{
+    width: 1500px;
+    margin: 0 auto;
+}
